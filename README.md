@@ -1,2 +1,2 @@
-# padr-es-projeto-java
+# padroes-projeto-java
 Explorando Padrões de Projetos na Prática com Java
